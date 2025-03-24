@@ -1,5 +1,5 @@
 1. Struktur Dasar
-<html> → Pembungkus utama halaman web.
+"<html>" → Pembungkus utama halaman web.
 
 <head> → Berisi informasi seperti judul dan pengaturan.
 
